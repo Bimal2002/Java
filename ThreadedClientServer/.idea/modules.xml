@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MultiThreadsServerClient.iml" filepath="$PROJECT_DIR$/MultiThreadsServerClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadedClientServer.iml" filepath="$PROJECT_DIR$/ThreadedClientServer.iml" />
     </modules>
   </component>
 </project>
